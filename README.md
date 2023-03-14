@@ -12,31 +12,39 @@ Here you will find several notes I made during my Python studies, with the idea 
         <td align="center">
             <a href="./syntax/examples/">./syntax/examples/</a>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             OOP
         </td>
         <td align="center">
             <a href="./syntax/notes/OOP-test/">./syntax/notes/OOP-test/</a>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             PyGames
         </td>
         <td align="center">
             <a href="./syntax/examples/advanced/pygames/">./syntax/examples/advanced/pygames/</a>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             Analyze xlsx and email automation
         </td>
         <td align="center">
             <a href="./report-project/">./report-project/</a>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             Task automation
         </td>
         <td align="center">
             <a href="./intensivao-hashtag/task-automation/">./intensivao-hashtag/task-automation/</a>
         </td>
-    <tr>
+    </tr>
 <table>
 
 <h6 align="center">by David Propato <a href="https://github.com/Propato">@Propato</a> </h6>
