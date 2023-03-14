@@ -10,4 +10,4 @@ The Gmail login information, email recipient, and message are inputted into an f
 
 <h3 align="center">NOTE: It is common knowledge that there are simpler ways to send emails with Python. However, the goal of this project was to understand task automation, and apply these concepts to various other activities.</h3>
 
-<h6 align="center">by David Propato <a hfer="https://github.com/Propato">@Propato</a> </h6>
+<h6 align="center">by David Propato <a href="https://github.com/Propato">@Propato</a> </h6>
